@@ -44,6 +44,8 @@ dependencies {
     implementation 'org.hibernate:hibernate-core'
     implementation 'org.springframework.boot:spring-boot-starter-jdbc'
     implementation 'mysql:mysql-connector-java'
+    //mustache
+    implementation('org.springframework.boot:spring-boot-starter-mustache')
 
 
 
